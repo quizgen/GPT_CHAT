@@ -1,0 +1,15 @@
+streamlit
+firebase-admin
+openai
+python-dotenv
+google-auth 
+google-auth-oauthlib
+google-auth-httplib2
+requests
+httpx_oauth
+PyPDF2
+langchain
+pandas 
+python-docx
+streamlit_option_menu
+groq
