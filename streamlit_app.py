@@ -10,7 +10,7 @@ from utils.auth import (
 )
 from datetime import datetime, timedelta
 from modules import login, signup, chat
-from utils.firestore import get_user_chats_with_metadata, create_new_chat, delete_chat
+from utils.firestore import get_user_chats, create_new_chat, delete_chat
 import urllib.parse
 import os
 
